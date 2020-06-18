@@ -1,0 +1,57 @@
+#btn-log{
+    background-color: #403969;
+    border: 0px;
+  }
+  #btn-reg{
+    background-color: #693766;
+    border: 0px;
+  }
+  #btn-change{
+    background-color: #403969;
+    border: 0px;
+  }
+  #nav{
+    height: 100px
+  }
+  .well{
+    position:center; 
+    margin-top:50%;
+  }
+  .mesage{
+    position:center;
+    margin-bottom:50%;
+
+  }
+  .image{
+    width: 70%;
+    position: center;
+    margin-left: 20%;
+    margin-right: 50%;
+    margin-top: 15%;
+    height: 500px;
+    margin-bottom: 5px;
+    position: relative;
+
+  }
+  .image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  #bo{
+    background-color:#edeef2;
+  }
+  .bot:hover{
+    cursor: pointer;
+  }
+  .back{
+    left: 2%;
+    top: calc(50% - 20px);
+    position: absolute;
+  }
+  .next{
+    right: 2%;
+    top: calc(50% - 20px);
+    position: absolute;
+  }
